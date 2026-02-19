@@ -1,9 +1,9 @@
-# Ing. [Tu Nombre Completo]
+# Ing. Carlos Santiago Marcelino
 ## Senior Backend Engineer | Tech Lead | Cloud & DevOps Specialist
 
-> **Ubicación:** Veracruz, México  
-> **Contacto:** [Tu Teléfono] | [Tu Correo Electrónico]  
-> **Social:** [LinkedIn](tu-url-aquí) | [GitHub](tu-url-aquí) | [X/Twitter](tu-url-aquí)
+> **Ubicación:** Oaxaca, México  
+> **Contacto:** 56******07 | str4y.k4t@proton.me
+> **Social:** [LinkedIn](https://www.linkedin.com/in/carlosbackenddev/) | [GitHub](https://github.com/str4yk4t/cv/) | [Sitio](https://carlossantiago.site/)
 
 ---
 
