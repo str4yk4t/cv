@@ -1,4 +1,3 @@
-# **str4y k4t**  
 # Senior Backend Engineer / Tech Lead / AI Implementation Specialist
 📍 *México*  
 📧 **str4y.k4t@proton.me**  
